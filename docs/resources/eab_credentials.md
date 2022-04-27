@@ -17,7 +17,7 @@ description: |-
 
 ### Required
 
-- `api_key` (String) ZeroSSL API key ([View it here](https://app.zerossl.com/developer)]
+- `api_key` (String) ZeroSSL API key ([View it here](https://app.zerossl.com/developer))
 
 ### Read-Only
 

@@ -42,7 +42,7 @@ func (r resourceEABCredentialsType) GetSchema(_ context.Context) (tfsdk.Schema, 
 			"api_key": {
 				Type:        types.StringType,
 				Required:    true,
-				Description: "ZeroSSL API key ([View it here](https://app.zerossl.com/developer)]",
+				Description: "ZeroSSL API key ([View it here](https://app.zerossl.com/developer))",
 			},
 			"kid": {
 				Type:        types.StringType,
